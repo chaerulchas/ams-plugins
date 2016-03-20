@@ -1,0 +1,3 @@
+Plugins are one of the best features of AutoPlay Media Studio. They allow 3rd party software developers to extend and expand the product in an extremely integrated and seamless fashion.
+
+Plus, with new Lua 5.1 module compatibility, you have access to a wealth of free code you can download and use in your projects. Just some of the useful modules out there include Bit Operation, Date, Canvas Draw, Imaging Tool, GD, Crypto, Colors, Speech, Alien, Social (Twitter), CURL and Regular Expression Parsing.
